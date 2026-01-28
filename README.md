@@ -85,11 +85,11 @@
 ---
 
 ## 📂 파일 구조
-/data # 데이터
-/notebooks # EDA 및 분석
-/src # 전처리, 모델링, 군집 분석
-/docs # 발표 자료
-README.md
+/data # 데이터  
+/notebooks # EDA 및 분석  
+/src # 전처리, 모델링, 군집 분석  
+/docs # 발표 자료  
+README.md  
 
 ---
 
