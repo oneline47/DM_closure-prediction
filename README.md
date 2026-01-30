@@ -89,8 +89,9 @@
 ---
 
 ## 📂 파일 구조
-/data # 데이터
-/notebooks # EDA 및 분석 노트북
-/src # 전처리, 모델링, 군집 분석 코드
-/docs # 발표 자료, 보고서/이미지
-README.md
+/data # 데이터  
+/notebooks # EDA 및 분석 노트북  
+/src # 전처리, 모델링, 군집 분석 코드  
+/docs # 발표 자료, 보고서/이미지  
+README.md  
+
