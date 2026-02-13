@@ -1,6 +1,8 @@
-# 🏪 DM_closure-prediction  
-**[빅콘테스트 2025 AI·데이터 경진대회] AI 데이터분석 분야**  
+# 🏪 폐업 조기 위험 감지 솔루션  
+**[빅콘테스트 2025 AI·데이터 경진대회]** AI 데이터분석 분야  
 이정수 · 양원선  
+
+[최종보고서 링크](docs/소상공인%20폐업%20예측%20프로젝트%20-%20최종.pdf)
 
 ---
 
@@ -148,10 +150,23 @@
 
 ---
 
+
 ## 📂 파일 구조
 /data # 데이터  
 /notebooks # EDA 및 분석 노트북  
 /src # 전처리, 모델링, 군집 분석 코드  
 /docs # 발표 자료, 보고서/이미지  
 README.md  
+
+---
+
+## 💁‍♂️ 프로젝트 팀원
+
+| | | 
+|:---:|:---:|
+| **[양원선](https://github.com/oneline47)** | **[이정수](https://github.com/jungsuu-00)** | 
+| ![](https://github.com/oneline47.png?size=140) | ![](https://github.com/jungsuu-00.png?size=140) |
+
+
+
 
